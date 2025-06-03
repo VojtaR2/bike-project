@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ``` bash
 python manage.py migrate
 ```
-###5. Spuštění webového serveru
+### 5. Spuštění webového serveru
    
 ``` bash
 python manage.py runserver
