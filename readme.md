@@ -11,7 +11,7 @@ V cmd udělejte tyhle kroky:
 ### 1. Naklonování repozitáře
 ```bash
 git clone https://github.com/VojtaR2/bike-project.git
-cd bike-project
+cd ProBikes
 ```
 
 ### 2. Nainstaluj virtualní prostředí
